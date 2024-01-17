@@ -5,7 +5,7 @@
  * Plugin URI: https://github.com/weblearnerhabib
  * Author: Freelancer Habib
  * Author URI: https://freelancer.com/u/csehabiburr183
- * Version: 1.0
+ * Version: 1.0.2
  */
 
 // Enqueue styles

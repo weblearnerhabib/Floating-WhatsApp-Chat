@@ -54,3 +54,10 @@ My Freelancer Profile: https://freelancer.com/u/csehabiburr183
 .contact_icon:hover {
     background: #128C7E;
 }
+.text_icon {
+    background: #25d366;
+    color: white;
+    margin-top: 5px;
+    padding: 0 6px;
+    border-radius: 5px;
+}
