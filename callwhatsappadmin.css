@@ -1,0 +1,80 @@
+
+/*
+Admin Page Styling Code by Freelancer Habib
+My Freelancer Profile: https://freelancer.com/u/csehabiburr183
+*/
+
+/* Entire Section Styling */
+#habib-apps {
+    background: white;
+    padding: 30px;
+    margin: 40px;
+    display: flex;
+}
+
+/* left wrapper */
+.whats-wrap {
+    width: 58%;
+}
+
+.whats-wrap h1 {
+	color: #25d366;
+	padding: 5px 0px;
+}
+
+/* Input Customizer */
+#whatsinput {
+    margin-top: 20px;
+    border: 1px solid #25D366;
+    display: block;
+    padding: 5px;
+}
+
+/* Admin Save Button Effect */
+.custom-whatsapp-btn{
+	background: #25d366;
+	border: none;
+	padding: 5px 40px 10px;
+	color: #FFF;
+	font-size: 26px;
+	border-radius: 30px;
+	cursor: pointer;
+	transition: 0.3s;
+	box-shadow: 0px 2px 7px 0px #0000006b;
+}
+
+/* Admin Save Button Hover Effect */
+.custom-whatsapp-btn:hover{
+	background: #128C7E;
+}
+
+
+/* Plugin Developer Section */
+#dev-section {
+    display: flex;
+    padding: 15px;
+    background: #f0f0f145;
+    border: 2px solid #ad9d9d08;
+}
+
+.developer-info {
+    width: 30%;
+    text-align: center;
+    flex: auto;
+}
+
+/* Developer Heading Styling */
+.developer-info h2 {
+    color: #2CD366;
+    font-size: 20px;
+}
+
+/* Hire Button */
+.developer-info h1 {
+    color: #128C7E;
+}
+
+/* Developer Image Resize */
+.dev-photo img{
+	max-width: 230px;
+}
